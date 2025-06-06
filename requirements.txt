@@ -1,0 +1,17 @@
+# Core Libraries
+numpy>=1.24.0
+pandas>=1.5.0
+
+# Visualization Libraries
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning Libraries
+scikit-learn>=1.2.0
+
+# Utility (used to suppress warnings)
+# No installation required for 'warnings' as it's part of Python's standard library
+
+# Jupyter Environment (optional but useful for working with notebooks)
+jupyterlab>=3.6.0
+ipykernel>=6.19.0
